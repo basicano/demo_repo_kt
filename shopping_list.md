@@ -1,4 +1,5 @@
 # RITIKA'S SHOPPING LIST
 
 Iphone 13 
-Apple Orange
+MacBook Pro
+mackbook is faltu
