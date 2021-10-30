@@ -1,3 +1,3 @@
 # RITIKA'S SHOPPING LIST
 
-mango strawberry chips
+mango strawberry chips apple
