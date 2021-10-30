@@ -1,6 +1,7 @@
 # RITIKA'S BRANCH 2 SHOPPING LIST
 
 chips 
-kurkure
 pakode
-
+apple
+orange
+laptop
