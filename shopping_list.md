@@ -1,4 +1,4 @@
 # RITIKA'S SHOPPING LIST
 
 Iphone 13 
-MacBook Pro
+Apple Orange
