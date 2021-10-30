@@ -2,5 +2,8 @@
 
 chips 
 kurkure
-pakode
-
+lettuce
+lemon
+kiwi
+banana 
+parwal
