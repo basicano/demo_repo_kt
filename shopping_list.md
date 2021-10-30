@@ -1,5 +1,6 @@
-# RITIKA'S SHOPPING LIST
+# RITIKA'S BRANCH 2 SHOPPING LIST
 
-Iphone 13 
-MacBook Pro
-mackbook is faltu
+chips 
+kurkure
+pakode
+
