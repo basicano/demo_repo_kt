@@ -1,4 +1,4 @@
 # RITIKA'S SHOPPING LIST
 
-mango 
-so many changes
+Iphone 13 
+MacBook Pro
